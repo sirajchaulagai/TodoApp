@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="main_activity_name">All Tasks</string>
+    <string name="add_task_activity_name">Add a New Task</string>
+
+    <!-- Strings for MainActivity -->
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+
+    <!-- Strings for AddTaskActivity -->
+    <!-- This edit task description has a unicode character for "..." = "&#8230;" -->
+    <string name="edit_task_description">Describe your taskEntry&#8230;</string>
+    <string name="priority_string">Priority</string>
+
+    <string name="high_priority">High</string>
+    <string name="med_priority">Medium</string>
+    <string name="low_priority">Low</string>
+
+    <string name="add_button">Add</string>
+    <string name="update_button">Update</string>
+
+    <!-- Strings for menu items -->
+    <string name="logout">Logout</string>
+    <string name="about">About Us</string>
+    <string name="todo_image">TODO Image</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="contactus">Contact Us</string>
+    <string name="close">Close</string>
+    <string name="about_text">Todo App made by Siraj Chaulagai.</string>
+    <string name="app_icon">App Icon</string>
+</resources>
